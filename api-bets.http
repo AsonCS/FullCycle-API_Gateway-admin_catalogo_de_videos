@@ -1,0 +1,10 @@
+###
+POST http://localhost/api/bets
+# Token anderson:password to base64
+#Authorization: Basic YW5kZXJzb246cGFzc3dvcmQ=
+# Token app-apostas 
+apiKey: rNQmofiuQolp2Do6yBtSrwVYgou3CGLv
+Content-Type: application/json
+Host: bets-app.com.br
+
+{}
